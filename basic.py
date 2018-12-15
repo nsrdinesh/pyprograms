@@ -1,3 +1,4 @@
+import math
 
 """
 Explain the Mutable and Immumtable behaviours
@@ -31,3 +32,26 @@ x = 1 + 2j  #complex numbers - needed for the maths computing.
 print(x)
 
 
+# Operators
+
+x = 10 + 3
+x = 10 // 3
+x = 10 % 3
+x = 10 ** 3
+
+print (x)
+
+PI = -3.14
+
+# build -in functions
+print (round(PI))
+
+print (abs(PI))
+
+print (math.pi)
+
+# Request user inputs
+
+#x = input ("x :")
+
+print(bool(None))
