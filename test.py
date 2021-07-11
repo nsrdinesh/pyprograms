@@ -4,3 +4,4 @@ def printOutput(value):
 
 
 printOutput("Test")
+printOutput("Test2")
